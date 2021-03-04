@@ -1,0 +1,13 @@
+C:\Users\ilanm\Source\Repos\Calculate the area of the infrastructure\Calculate the area of the infrastructure\bin\Debug\netcoreapp3.1\Calculate the area of the infrastructure.exe
+C:\Users\ilanm\Source\Repos\Calculate the area of the infrastructure\Calculate the area of the infrastructure\bin\Debug\netcoreapp3.1\Calculate the area of the infrastructure.deps.json
+C:\Users\ilanm\Source\Repos\Calculate the area of the infrastructure\Calculate the area of the infrastructure\bin\Debug\netcoreapp3.1\Calculate the area of the infrastructure.runtimeconfig.json
+C:\Users\ilanm\Source\Repos\Calculate the area of the infrastructure\Calculate the area of the infrastructure\bin\Debug\netcoreapp3.1\Calculate the area of the infrastructure.runtimeconfig.dev.json
+C:\Users\ilanm\Source\Repos\Calculate the area of the infrastructure\Calculate the area of the infrastructure\bin\Debug\netcoreapp3.1\Calculate the area of the infrastructure.dll
+C:\Users\ilanm\Source\Repos\Calculate the area of the infrastructure\Calculate the area of the infrastructure\bin\Debug\netcoreapp3.1\Calculate the area of the infrastructure.pdb
+C:\Users\ilanm\Source\Repos\Calculate the area of the infrastructure\Calculate the area of the infrastructure\obj\Debug\netcoreapp3.1\Calculate the area of the infrastructure.csprojAssemblyReference.cache
+C:\Users\ilanm\Source\Repos\Calculate the area of the infrastructure\Calculate the area of the infrastructure\obj\Debug\netcoreapp3.1\Calculate the area of the infrastructure.AssemblyInfoInputs.cache
+C:\Users\ilanm\Source\Repos\Calculate the area of the infrastructure\Calculate the area of the infrastructure\obj\Debug\netcoreapp3.1\Calculate the area of the infrastructure.AssemblyInfo.cs
+C:\Users\ilanm\Source\Repos\Calculate the area of the infrastructure\Calculate the area of the infrastructure\obj\Debug\netcoreapp3.1\Calculate the area of the infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ilanm\Source\Repos\Calculate the area of the infrastructure\Calculate the area of the infrastructure\obj\Debug\netcoreapp3.1\Calculate the area of the infrastructure.dll
+C:\Users\ilanm\Source\Repos\Calculate the area of the infrastructure\Calculate the area of the infrastructure\obj\Debug\netcoreapp3.1\Calculate the area of the infrastructure.pdb
+C:\Users\ilanm\Source\Repos\Calculate the area of the infrastructure\Calculate the area of the infrastructure\obj\Debug\netcoreapp3.1\Calculate the area of the infrastructure.genruntimeconfig.cache
